@@ -1,3 +1,2 @@
 #!/bin/bash
-vi 100-decimal_to_hexadecimal
-
+100-decimal_to_hexadecimal
